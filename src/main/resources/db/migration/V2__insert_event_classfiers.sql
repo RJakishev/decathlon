@@ -1,0 +1,10 @@
+insert into event (name, a, b, c) VALUES ('100 m', 25.4347, 18, 1.81);
+insert into event (name, a, b, c) VALUES ('Long jump', 0.14354, 220, 1.4);
+insert into event (name, a, b, c) VALUES ('Shot put', 51.39, 1.5, 1.05);
+insert into event (name, a, b, c) VALUES ('High jump', 0.8465, 75, 1.42);
+insert into event (name, a, b, c) VALUES ('400 m', 1.53775, 82, 1.81);
+insert into event (name, a, b, c) VALUES ('110 m hurdles', 5.74352, 28.5, 1.92);
+insert into event (name, a, b, c) VALUES ('Discus throw', 12.91, 4, 1.1);
+insert into event (name, a, b, c) VALUES ('Pole vault', 0.2797, 100, 1.35);
+insert into event (name, a, b, c) VALUES ('Javelin throw', 10.14, 7, 1.08);
+insert into event (name, a, b, c) VALUES ('1500 m', 0.03768, 480, 1.85);

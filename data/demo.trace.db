@@ -1,0 +1,9 @@
+2020-03-22 13:06:57 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "CREATE TABLE IF NOT EXISTS EVENT (
+    ID INT NOT NULL,
+    NAME VARCHAR(100) NULL
+    PRIMARY KEY ([*]ID))"; expected "HASH, AUTO_INCREMENT, NOT, NULL, COMMENT, CHECK, REFERENCES, ,, )"; SQL statement:
+CREATE TABLE IF NOT EXISTS event (
+    id INT NOT NULL,
+    name varchar(100) NULL
+    PRIMARY KEY (id)) [42001-200]
